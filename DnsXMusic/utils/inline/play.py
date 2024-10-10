@@ -54,10 +54,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
           [
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/Dns_Official_Channel"
+                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/musicsupportgroup1"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/DNS_NETWORK"
+                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/musicsupportgroup1"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="close")],
@@ -69,10 +69,10 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
           [
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/Dns_Official_Channel"
+                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/musicsupportgroup1"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/DNS_NETWORK"
+                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/musicsupportgroup1"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="close")],
@@ -94,10 +94,10 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
           [
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/Dns_Official_Channel"
+                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/musicsupportgroup1"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/DNS_NETWORK"
+                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/musicsupportgroup1"
           ),
         ],
         [
@@ -111,10 +111,10 @@ def telegram_markup(_, chat_id):
     buttons = [
           [
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/Dns_Official_Channel"
+                text="ᴜᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/musicsupportgroup1"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/DNS_NETWORK"
+                text="sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/musicsupportgroup1"
           ),
         ],
         [
